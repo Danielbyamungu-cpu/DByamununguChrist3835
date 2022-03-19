@@ -8,3 +8,4 @@
 5.After open a terminal from the menu bar at the top
 6.Type in "npm start" command to start the application
 7.In your browser search bar type in http://localhost:4200/ to run the project
+Thank you
